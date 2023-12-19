@@ -1,0 +1,1 @@
+export { default as PopActionDelete } from "./PopActionDelete.tsx";

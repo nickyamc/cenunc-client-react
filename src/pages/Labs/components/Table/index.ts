@@ -1,0 +1,1 @@
+export { default as LabTable } from './LabTable.tsx';
